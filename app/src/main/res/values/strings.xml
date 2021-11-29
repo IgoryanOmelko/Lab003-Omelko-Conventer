@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab-002 Convert Omelko</string>
+    <string name="text_view_from">From:</string>
+    <string name="text_view_to">To:</string>
+    <string name="radiobutton_weight">Weight</string>
+    <string name="radiobutton_length">Length</string>
+    <string name="radiobutton_volume">Volume</string>
+    <string name="button_convert">Convert</string>
+    <string name="text_error">Parameter is not supported</string>
+</resources>
